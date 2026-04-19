@@ -1,0 +1,27 @@
+{
+  "deepseek_chat":{
+  "model": "deepseek-chat",
+  "api_key": "YOUR API",
+  "base_url": "base_url"
+  },
+  "qwen":{
+"model": "qwen3-max",
+"api_key": "YOUR API",
+"base_url": "base_url"
+  },
+  "kimi":{
+  "model": "kimi-k2-0905-preview",
+  "api_key": "YOUR API",
+  "base_url": "base_url"
+  },
+  "doubao": {
+    "model": "doubao-seed-1-6-flash-250828",
+  "api_key": "YOUR API",
+  "base_url": "base_url"
+  },
+    "chatgpt": {
+    "model": "GPT5.2",
+  "api_key": "YOUR API",
+  "base_url": "base_url"
+  }
+}
